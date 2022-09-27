@@ -1,0 +1,851 @@
+Data;Descrizione;Categorie;Costo;Valuta;Mattia Di Donato;Alice Battaglini
+
+2017-10-17;Acqua;Generali;10,00;EUR;-10,00;10,00
+2017-10-21;Polpette;Generali;7,00;EUR;-3,50;3,50
+2017-10-22;Pizza;Ristorante;14,50;EUR;-7,25;7,25
+2017-10-29;Acqua;Generali;1,00;EUR;1,00;-1,00
+2017-10-29;Pranzo da alice;Generali;14,89;EUR;7,44;-7,44
+2017-10-31;Cena ;Generali;50,00;EUR;-25,00;25,00
+2017-11-01;Kebab;Generali;5,50;EUR;2,75;-2,75
+2017-11-03;Mattia D, ha pagato Alice B,;Pagamento;40,00;EUR;40,00;-40,00
+2017-11-05;Prestito ;Generali;20,00;EUR;-20,00;20,00
+2017-11-07;Spesa;Generali;6,86;EUR;-6,86;6,86
+2017-11-08;Prestito;Generali;5,00;EUR;-5,00;5,00
+2017-11-08;Spesa;Generali;13,96;EUR;13,96;-13,96
+2017-11-08;Pizza;Ristorante;15,00;EUR;7,50;-7,50
+2017-11-12;Kebab;Generali;12,00;EUR;6,00;-6,00
+2017-11-12;PizA;Generali;5,00;EUR;5,00;-5,00
+2017-11-12;Ape;Generali;10,00;EUR;-10,00;10,00
+2017-11-12;Ape;Generali;1,00;EUR;1,00;-1,00
+2017-11-12;Farina;Generali;1,00;EUR;1,00;-1,00
+2017-11-14;Carrefour;Generali;6,28;EUR;6,28;-6,28
+2017-11-17;Pizza;Ristorante;13,00;EUR;-6,50;6,50
+2017-11-23;Pizza;Ristorante;5,00;EUR;5,00;-5,00
+2017-11-24;Aia;Generali;25,00;EUR;12,50;-12,50
+2017-11-24;Carne;Generali;6,70;EUR;3,35;-3,35
+2017-11-26;Cena;Generali;11,42;EUR;-11,42;11,42
+2017-11-28;Dolce;Generali;25,00;EUR;12,50;-12,50
+2017-11-28;Pizza;Ristorante;13,00;EUR;-6,50;6,50
+2017-11-30;Cena;Generali;2,50;EUR;-1,25;1,25
+2017-12-02;Cena;Generali;8,84;EUR;8,84;-8,84
+2017-12-04;Pizza;Ristorante;6,00;EUR;-6,00;6,00
+2017-12-05;Mensa;Generali;5,00;EUR;-5,00;5,00
+2017-12-08;Kebab;Generali;11,00;EUR;5,50;-5,50
+2017-12-08;Alice B, ha pagato Mattia D,;Pagamento;15,34;EUR;-15,34;15,34
+2017-12-10;Pizza;Ristorante;12,50;EUR;-6,25;6,25
+2017-12-13;Coop;Generali;10,00;EUR;10,00;-10,00
+2017-12-14;Dolce;Generali;4,50;EUR;4,50;-4,50
+2017-12-15;Coop;Generali;3,00;EUR;1,50;-1,50
+2017-12-16;Alice B, ha pagato Mattia D,;Pagamento;9,75;EUR;-9,75;9,75
+2017-12-16;Nippon;Generali;1,00;EUR;1,00;-1,00
+2017-12-16;Pizze;Generali;14,00;EUR;7,00;-7,00
+2018-01-06;Coop;Generali;9,00;EUR;-4,50;4,50
+2018-01-09;Pollo;Generali;11,60;EUR;-5,80;5,80
+2018-01-12;Kebab;Generali;10,00;EUR;-5,00;5,00
+2018-01-12;Caramanico;Generali;7,00;EUR;7,00;-7,00
+2018-01-13;Pancetta;Generali;2,00;EUR;-2,00;2,00
+2018-01-13;Robin;Generali;15,00;EUR;15,00;-15,00
+2018-01-15;Coop;Generali;4,00;EUR;2,00;-2,00
+2018-01-17;Coop;Generali;8,00;EUR;-8,00;8,00
+2018-01-22;Cena;Ristorante;20,00;EUR;-10,00;10,00
+2018-01-25;Dpiù;Generali;4,60;EUR;-4,60;4,60
+2018-02-15;Coop;Generali;7,40;EUR;-7,40;7,40
+2018-02-18;Kebab;Ristorante;5,50;EUR;5,50;-5,50
+2018-02-18;Carrefour;Alimentari;22,00;EUR;22,00;-22,00
+2018-02-22;Svito e prolunga;Generali;8,00;EUR;-8,00;8,00
+2018-02-22;Pizza;Ristorante;12,50;EUR;6,25;-6,25
+2018-02-24;Coop e clenil;Generali;14,00;EUR;-14,00;14,00
+2018-03-08;Birra orzo;Alcolici;9,00;EUR;9,00;-9,00
+2018-03-08;Broccoli;Generali;2,70;EUR;-2,70;2,70
+2018-03-09;Mozzarelle;Generali;2,50;EUR;-1,25;1,25
+2018-03-10;Panini;Generali;9,00;EUR;-4,50;4,50
+2018-03-10;Metro;Autobus/treno;6,00;EUR;-3,00;3,00
+2018-03-10;Carbonara;Generali;24,00;EUR;12,00;-12,00
+2018-03-10;Gelato;Ristorante;5,00;EUR;2,50;-2,50
+2018-03-10;Gelato;Ristorante;7,00;EUR;3,50;-3,50
+2018-03-11;Acqua;Generali;2,50;EUR;-2,50;2,50
+2018-03-11;Biglietti;Generali;2,40;EUR;-1,20;1,20
+2018-03-11;Pizza;Ristorante;14,00;EUR;-7,00;7,00
+2018-03-16;Prestito;Generali;10,00;EUR;10,00;-10,00
+2018-03-17;Regalo viola;Regali;5,00;EUR;-5,00;5,00
+2018-03-18;Uscita;Generali;10,00;EUR;-10,00;10,00
+2018-03-19;Pesto;Generali;4,45;EUR;-2,23;2,23
+2018-03-22;Piadine;Generali;2,60;EUR;-2,60;2,60
+2018-03-24;Piadine;Generali;4,34;EUR;-4,34;4,34
+2018-03-25;Birra;Alcolici;7,00;EUR;3,50;-3,50
+2018-03-28;Coop;Generali;14,00;EUR;7,00;-7,00
+2018-04-07;Coop;Generali;12,50;EUR;12,50;-12,50
+2018-04-11;Chiilly e pesto;Generali;2,50;EUR;-2,50;2,50
+2018-04-12;Carrefour;Alimentari;16,41;EUR;16,41;-16,41
+2018-04-12;Calzini;Generali;2,00;EUR;2,00;-2,00
+2018-04-13;Birra;Alcolici;7,50;EUR;7,50;-7,50
+2018-04-16;Coop;Generali;15,63;EUR;15,63;-15,63
+2018-04-18;Alice B, ha pagato Mattia D,;Pagamento;49,17;EUR;-49,17;49,17
+2018-04-18;Broccoli;Generali;2,68;EUR;-2,68;2,68
+2018-04-19;Coop;Generali;6,80;EUR;-6,80;6,80
+2018-04-21;Gelato;Ristorante;4,00;EUR;2,00;-2,00
+2018-04-22;Treno;Generali;10,00;EUR;10,00;-10,00
+2018-04-24;25 aprile;Generali;25,00;EUR;-12,50;12,50
+2018-04-26;Ritorno;Generali;20,00;EUR;10,00;-10,00
+2018-04-28;Alice B, ha pagato Mattia D,;Pagamento;0,02;EUR;-0,02;0,02
+2018-04-28;Treno;Generali;31,55;EUR;31,55;-31,55
+2018-04-30;Carbonara;Generali;2,28;EUR;1,14;-1,14
+2018-04-30;Reso;Generali;30,00;EUR;-30,00;30,00
+2018-05-02;Pizza;Ristorante;12,00;EUR;6,00;-6,00
+2018-05-03;Spesa;Alimentari;7,00;EUR;7,00;-7,00
+2018-05-03;Spesa;Alimentari;2,00;EUR;2,00;-2,00
+2018-05-07;Autobus;Generali;12,00;EUR;-12,00;12,00
+2018-05-08;Pizzette;Generali;11,00;EUR;5,50;-5,50
+2018-05-12;Coop;Generali;6,55;EUR;-6,55;6,55
+2018-05-15;Asparagi;Generali;1,70;EUR;1,70;-1,70
+2018-05-18;Alice B, ha pagato Mattia D,;Pagamento;6,34;EUR;-6,34;6,34
+2018-05-20;Pizza;Ristorante;4,00;EUR;-4,00;4,00
+2018-05-20;Pam;Generali;5,90;EUR;-5,90;5,90
+2018-05-26;Panino;Generali;5,00;EUR;-5,00;5,00
+2018-05-28;Alice;Generali;50,00;EUR;50,00;-50,00
+2018-05-29;Reso;Generali;40,00;EUR;-40,00;40,00
+2018-05-30;Mattia D, ha pagato Alice B,;Pagamento;10,00;EUR;10,00;-10,00
+2018-06-02;Alice B, ha pagato Mattia D,;Pagamento;5,10;EUR;-5,10;5,10
+2018-06-02;Crema;Alimentari;8,00;EUR;8,00;-8,00
+2018-06-04;Ananas;Generali;3,00;EUR;-3,00;3,00
+2018-06-04;Panna;Generali;2,00;EUR;-2,00;2,00
+2018-06-06;Gelato;Ristorante;2,50;EUR;-2,50;2,50
+2018-06-09;Pizza;Ristorante;10,00;EUR;-10,00;10,00
+2018-06-10;Gelato;Ristorante;2,00;EUR;2,00;-2,00
+2018-06-10;Carrefour;Alimentari;16,50;EUR;16,50;-16,50
+2018-06-12;Gelato;Ristorante;4,60;EUR;-2,30;2,30
+2018-06-15;Spesa;Alimentari;5,32;EUR;5,32;-5,32
+2018-06-17;Insalata di riso;Generali;7,84;EUR;3,92;-3,92
+2018-06-17;Pizza;Ristorante;10,00;EUR;-5,00;5,00
+2018-06-19;Alice B, ha pagato Mattia D,;Pagamento;10,94;EUR;-10,94;10,94
+2018-06-19;Prestito;Generali;10,00;EUR;-10,00;10,00
+2018-06-21;Pizza;Ristorante;12,00;EUR;-6,00;6,00
+2018-06-22;Colazione;Generali;1,00;EUR;-1,00;1,00
+2018-06-22;Acqua;Generali;0,50;EUR;0,50;-0,50
+2018-06-23;Coop;Generali;2,98;EUR;2,98;-2,98
+2018-06-25;Cocomero;Generali;2,00;EUR;-2,00;2,00
+2018-06-26;Pomodori;Generali;3,34;EUR;-3,34;3,34
+2018-06-27;Pane;Generali;1,03;EUR;1,03;-1,03
+2018-06-28;Pizza;Ristorante;10,00;EUR;-5,00;5,00
+2018-06-28;Pizza;Ristorante;5,50;EUR;2,75;-2,75
+2018-06-28;Caffè;Generali;1,00;EUR;-1,00;1,00
+2018-07-01;Guanciale;Generali;1,00;EUR;-1,00;1,00
+2018-07-03;Birra;Alcolici;2,50;EUR;2,50;-2,50
+2018-07-03;Prestito;Generali;20,00;EUR;-20,00;20,00
+2018-07-04;Coop;Generali;3,70;EUR;3,70;-3,70
+2018-07-05;Reso;Generali;10,00;EUR;10,00;-10,00
+2018-07-08;Cena;Generali;35,00;EUR;17,50;-17,50
+2018-07-08;Pizza;Ristorante;15,00;EUR;-15,00;15,00
+2018-07-09;Reso;Generali;20,00;EUR;20,00;-20,00
+2018-07-12;Mattia D, ha pagato Alice B,;Pagamento;3,38;EUR;3,38;-3,38
+2018-07-18;Carrefour;Alimentari;13,00;EUR;-13,00;13,00
+2018-07-20;Polpo;Generali;10,00;EUR;10,00;-10,00
+2018-07-20;Coop;Generali;3,26;EUR;-3,26;3,26
+2018-07-25;Lam;Generali;2,50;EUR;2,50;-2,50
+2018-08-06;Campiglia-roma;Generali;19,80;EUR;-9,90;9,90
+2018-08-06;Roma-pisa;Generali;38,80;EUR;-19,40;19,40
+2018-08-22;Benzina;Generali;20,00;EUR;-10,00;10,00
+2018-08-24;Mattia D, ha pagato Alice B,;Pagamento;43,06;EUR;43,06;-43,06
+2018-08-29;Lavaggio;Generali;5,00;EUR;-5,00;5,00
+2018-08-30;Mattia D, ha pagato Alice B,;Pagamento;5,00;EUR;5,00;-5,00
+2018-08-31;Coop;Generali;3,50;EUR;-3,50;3,50
+2018-09-02;Coop;Generali;0,50;EUR;0,50;-0,50
+2018-09-12;Carrefour;Alimentari;6,00;EUR;6,00;-6,00
+2018-09-13;Laurea;Generali;10,00;EUR;-10,00;10,00
+2018-09-16;Gomma;Generali;5,60;EUR;-5,60;5,60
+2018-09-16;Pizza;Ristorante;12,70;EUR;6,35;-6,35
+2018-09-18;Ape;Generali;10,00;EUR;-5,00;5,00
+2018-09-20;Pizza;Ristorante;2,66;EUR;2,66;-2,66
+2018-09-25;Pizza;Ristorante;2,60;EUR;2,60;-2,60
+2018-09-27;Pizza;Ristorante;12,00;EUR;6,00;-6,00
+2018-09-28;Alice B, ha pagato Mattia D,;Pagamento;0,01;EUR;-0,01;0,01
+2018-09-29;Lidl;Alimentari;2,00;EUR;2,00;-2,00
+2018-09-29;Pollo;Generali;4,15;EUR;4,15;-4,15
+2018-09-30;Alice B, ha pagato Mattia D,;Pagamento;9,00;EUR;-9,00;9,00
+2018-10-01;Carrefour;Alimentari;4,00;EUR;4,00;-4,00
+2018-10-02;Coop;Generali;6,68;EUR;-6,68;6,68
+2018-10-03;Coop;Generali;3,00;EUR;3,00;-3,00
+2018-10-16;Panini lucca;Generali;18,00;EUR;9,00;-9,00
+2018-10-16;Regalo chiara;Regali;5,00;EUR;5,00;-5,00
+2018-10-16;Gelato lucca;Ristorante;5,00;EUR;-2,50;2,50
+2018-10-18;Coop;Generali;1,83;EUR;-1,83;1,83
+2018-10-19;Pizza;Ristorante;9,00;EUR;-9,00;9,00
+2018-10-21;Spesa;Alimentari;5,60;EUR;5,60;-5,60
+2018-10-22;Spesa;Alimentari;6,57;EUR;6,57;-6,57
+2018-10-25;Pizza;Ristorante;4,80;EUR;-4,80;4,80
+2018-10-27;Piadine;Generali;1,89;EUR;-0,94;0,94
+2018-10-27;Piadina;Generali;2,70;EUR;2,70;-2,70
+2018-10-30;Alice B, ha pagato Mattia D,;Pagamento;7,27;EUR;-7,27;7,27
+2018-10-30;Pappardelle;Generali;2,94;EUR;2,94;-2,94
+2018-11-01;Pullman;Generali;5,00;EUR;5,00;-5,00
+2018-11-03;Fitball;Generali;8,00;EUR;8,00;-8,00
+2018-11-06;Pizza;Ristorante;11,00;EUR;-5,50;5,50
+2018-11-09;Scamorza;Generali;2,00;EUR;2,00;-2,00
+2018-11-10;Poselli;Generali;0,99;EUR;-0,99;0,99
+2018-11-11;Torte;Generali;10,55;EUR;10,55;-10,55
+2018-11-12;Pizza;Ristorante;13,00;EUR;-6,50;6,50
+2018-11-12;Carbonara;Generali;6,00;EUR;3,00;-3,00
+2018-11-15;Coop;Generali;2,88;EUR;1,44;-1,44
+2018-11-15;Moment;Generali;4,00;EUR;4,00;-4,00
+2018-11-16;Reso;Generali;20,00;EUR;-20,00;20,00
+2018-11-16;Coop;Generali;7,80;EUR;-7,80;7,80
+2018-11-18;Carrefour;Alimentari;13,80;EUR;-13,80;13,80
+2018-11-20;Mattia D, ha pagato Alice B,;Pagamento;2,36;EUR;2,36;-2,36
+2018-11-23;Cestino;Generali;11,50;EUR;11,50;-11,50
+2018-11-24;Pizza;Ristorante;11,50;EUR;-5,75;5,75
+2018-11-24;Coop;Generali;6,00;EUR;-6,00;6,00
+2018-11-24;Pollo;Alimentari;3,62;EUR;-3,62;3,62
+2018-11-25;Borsa;Generali;0,45;EUR;0,45;-0,45
+2018-11-27;Coop;Generali;1,70;EUR;1,70;-1,70
+2018-12-03;Teatro;Intrattenimento - Altro;10,00;EUR;10,00;-10,00
+2018-12-03;Spesa;Alimentari;1,60;EUR;1,60;-1,60
+2018-12-03;Spesa;Alimentari;1,80;EUR;1,80;-1,80
+2018-12-05;Cena;Ristorante;20,00;EUR;20,00;-20,00
+2018-12-06;Alice B, ha pagato Mattia D,;Pagamento;16,38;EUR;-16,38;16,38
+2018-12-07;Pizza;Ristorante;13,00;EUR;6,50;-6,50
+2018-12-09;Biscotti;Generali;7,00;EUR;3,50;-3,50
+2018-12-09;Pizza;Ristorante;9,00;EUR;-4,50;4,50
+2018-12-11;Coop;Generali;2,10;EUR;-2,10;2,10
+2018-12-13;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2018-12-13;Panino;Generali;1,40;EUR;-1,40;1,40
+2018-12-13;Pesce;Generali;5,00;EUR;2,50;-2,50
+2018-12-14;Reso e cavo;Generali;20,00;EUR;-20,00;20,00
+2018-12-14;Cotto;Generali;4,00;EUR;4,00;-4,00
+2018-12-17;Cioccolata;Generali;4,50;EUR;4,50;-4,50
+2018-12-31;Coop;Generali;3,50;EUR;-3,50;3,50
+2018-12-31;Capodanno;Generali;14,85;EUR;-14,85;14,85
+2019-01-01;Casello;Generali;8,00;EUR;8,00;-8,00
+2019-01-03;Pizza;Ristorante;9,00;EUR;4,50;-4,50
+2019-01-04;Tortellini;Generali;3,35;EUR;-1,67;1,67
+2019-01-04;Pizza;Ristorante;10,50;EUR;5,25;-5,25
+2019-01-09;Mattia D, ha pagato Alice B,;Pagamento;2,27;EUR;2,27;-2,27
+2019-01-10;Coop;Generali;7,00;EUR;-3,50;3,50
+2019-01-11;Coop;Generali;6,00;EUR;-6,00;6,00
+2019-01-20;Pizza;Ristorante;6,00;EUR;6,00;-6,00
+2019-01-22;Mattia D, ha pagato Alice B,;Pagamento;3,50;EUR;3,50;-3,50
+2019-01-22;Carrefour;Alimentari;4,00;EUR;4,00;-4,00
+2019-01-25;Mc;Generali;3,00;EUR;3,00;-3,00
+2019-01-25;Coop;Generali;2,30;EUR;-2,30;2,30
+2019-02-01;Coop;Generali;2,50;EUR;2,50;-2,50
+2019-02-02;Panna e salmone;Generali;4,00;EUR;-2,00;2,00
+2019-02-06;Pizza;Ristorante;5,00;EUR;5,00;-5,00
+2019-02-16;Carrefour;Alimentari;13,00;EUR;-13,00;13,00
+2019-02-17;Pizza;Ristorante;6,00;EUR;-6,00;6,00
+2019-02-18;Salmone;Generali;6,00;EUR;3,00;-3,00
+2019-02-20;Pesto;Generali;5,00;EUR;2,50;-2,50
+2019-02-20;Pullman;Generali;6,20;EUR;-6,20;6,20
+2019-02-20;Coop;Generali;8,40;EUR;-8,40;8,40
+2019-02-20;Ikea;Arredamento;4,00;EUR;4,00;-4,00
+2019-02-20;Prestito;Generali;2,00;EUR;-2,00;2,00
+2019-02-20;Carrefour;Alimentari;6,60;EUR;6,60;-6,60
+2019-02-21;Gelato;Ristorante;2,50;EUR;-2,50;2,50
+2019-02-21;Pizza;Ristorante;10,00;EUR;5,00;-5,00
+2019-02-22;Colazione;Generali;7,00;EUR;3,50;-3,50
+2019-02-23;Coop cnr;Generali;8,60;EUR;-8,60;8,60
+2019-03-02;Mattia D, ha pagato Alice B,;Pagamento;11,90;EUR;11,90;-11,90
+2019-03-02;Coop;Generali;4,00;EUR;-4,00;4,00
+2019-03-03;Esslunga;Generali;1,30;EUR;1,30;-1,30
+2019-03-06;Coca;Generali;1,30;EUR;-1,30;1,30
+2019-03-08;Salmone;Generali;3,00;EUR;-3,00;3,00
+2019-03-09;Pizza;Ristorante;10,00;EUR;5,00;-5,00
+2019-03-09;Ikea;Arredamento;4,00;EUR;4,00;-4,00
+2019-03-12;Pane;Generali;2,50;EUR;2,50;-2,50
+2019-03-14;Obi;Generali;7,00;EUR;3,50;-3,50
+2019-03-14;Corda;Generali;4,00;EUR;2,00;-2,00
+2019-03-19;Carrefour;Alimentari;1,50;EUR;-1,50;1,50
+2019-03-19;Lidl;Alimentari;1,40;EUR;-0,70;0,70
+2019-03-21;Acqua;Generali;0,50;EUR;-0,50;0,50
+2019-03-21;Gelato;Ristorante;4,00;EUR;-2,00;2,00
+2019-03-23;Salmone;Generali;7,70;EUR;7,70;-7,70
+2019-03-23;Lidl;Alimentari;3,50;EUR;-3,50;3,50
+2019-03-25;Carrefour;Alimentari;2,00;EUR;2,00;-2,00
+2019-03-26;Margherita;Generali;1,50;EUR;1,50;-1,50
+2019-04-03;Lidl;Alimentari;4,00;EUR;-2,00;2,00
+2019-04-12;Pane;Generali;3,00;EUR;-3,00;3,00
+2019-04-15;Pane;Generali;2,00;EUR;2,00;-2,00
+2019-04-16;Coop;Generali;5,00;EUR;-5,00;5,00
+2019-04-17;Prestito;Generali;5,00;EUR;5,00;-5,00
+2019-05-04;Ikea;Arredamento;3,90;EUR;-3,90;3,90
+2019-05-04;Salmone;Generali;3,05;EUR;-1,52;1,52
+2019-05-04;Ikea;Arredamento;3,00;EUR;3,00;-3,00
+2019-05-07;Coop;Generali;5,00;EUR;-2,50;2,50
+2019-05-09;Alice B, ha pagato Mattia D,;Pagamento;5,00;EUR;-5,00;5,00
+2019-05-09;Alice B, ha pagato Mattia D,;Pagamento;0,08;EUR;-0,08;0,08
+2019-05-15;Carrefour;Alimentari;9,00;EUR;9,00;-9,00
+2019-05-20;Biscotti;Generali;1,39;EUR;1,39;-1,39
+2019-05-20;Ikea;Arredamento;2,00;EUR;2,00;-2,00
+2019-05-22;Alice B, ha pagato Mattia D,;Pagamento;12,39;EUR;-12,39;12,39
+2019-05-23;Tramezzino;Generali;1,50;EUR;1,50;-1,50
+2019-05-24;Ikea;Arredamento;5,00;EUR;5,00;-5,00
+2019-05-24;Ferrari;Generali;14,00;EUR;-7,00;7,00
+2019-05-26;Detersivo;Generali;4,00;EUR;-4,00;4,00
+2019-05-26;Acqua;Generali;2,50;EUR;2,50;-2,50
+2019-05-29;Coop;Generali;5,00;EUR;-5,00;5,00
+2019-06-02;Pizza;Ristorante;4,00;EUR;-4,00;4,00
+2019-06-05;Mattia D, ha pagato Alice B,;Pagamento;11,00;EUR;11,00;-11,00
+2019-06-06;Coop;Generali;4,00;EUR;-4,00;4,00
+2019-06-07;Coop;Generali;16,00;EUR;-16,00;16,00
+2019-06-07;Mattia D, ha pagato Alice B,;Pagamento;20,00;EUR;20,00;-20,00
+2019-06-12;Lidl;Generali;6,00;EUR;6,00;-6,00
+2019-06-20;Coop;Generali;6,00;EUR;6,00;-6,00
+2019-06-21;Arrosticini;Generali;6,00;EUR;6,00;-6,00
+2019-06-21;Margherita;Generali;2,00;EUR;2,00;-2,00
+2019-06-24;Pizza;Ristorante;7,00;EUR;7,00;-7,00
+2019-06-30;Pizza;Ristorante;7,00;EUR;-3,50;3,50
+2019-06-30;Alice B, ha pagato Mattia D,;Pagamento;23,50;EUR;-23,50;23,50
+2019-06-30;Resto;Ristorante;10,00;EUR;-10,00;10,00
+2019-07-05;Mattia D, ha pagato Alice B,;Pagamento;10,00;EUR;10,00;-10,00
+2019-07-06;Salmone;Generali;3,05;EUR;1,52;-1,52
+2019-07-07;Carrefour;Alimentari;6,40;EUR;-6,40;6,40
+2019-07-08;Margherita;Generali;0,90;EUR;0,90;-0,90
+2019-07-08;Mattia D, ha pagato Alice B,;Pagamento;3,98;EUR;3,98;-3,98
+2019-07-08;Coop;Generali;3,00;EUR;3,00;-3,00
+2019-07-09;Chiosco;Generali;1,50;EUR;1,50;-1,50
+2019-07-09;Polase;Generali;5,00;EUR;-5,00;5,00
+2019-07-11;Pizza;Ristorante;5,00;EUR;5,00;-5,00
+2019-07-12;Coop;Generali;2,00;EUR;2,00;-2,00
+2019-07-14;Carrefour;Alimentari;12,00;EUR;-12,00;12,00
+2019-07-15;Kebab;Ristorante;4,00;EUR;-4,00;4,00
+2019-07-16;Spesa;Alimentari;12,62;EUR;12,62;-12,62
+2019-07-19;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2019-07-19;Conad;Generali;4,60;EUR;-4,60;4,60
+2019-07-19;Viennetta;Generali;1,89;EUR;0,95;-0,95
+2019-07-21;Conad;Generali;2,60;EUR;-2,60;2,60
+2019-07-22;Carrefour;Alimentari;9,00;EUR;-4,50;4,50
+2019-07-25;Pareggia tutti i bilanci;Generali;0,63;EUR;0,63;-0,63
+2019-08-26;Pizza;Ristorante;15,50;EUR;-7,75;7,75
+2019-08-27;Carrefour;Alimentari;3,25;EUR;3,25;-3,25
+2019-08-27;Ragù;Generali;1,30;EUR;0,65;-0,65
+2019-08-27;Coop;Generali;3,60;EUR;-3,60;3,60
+2019-08-29;Focaccia;Generali;2,00;EUR;-1,00;1,00
+2019-08-29;Pizza;Ristorante;6,00;EUR;6,00;-6,00
+2019-08-30;Focaccia;Generali;2,04;EUR;2,04;-2,04
+2019-08-30;Varie;Generali;6,00;EUR;3,00;-3,00
+2019-08-30;Burrata;Generali;2,00;EUR;2,00;-2,00
+2019-09-01;Pollo;Alimentari;13,00;EUR;6,50;-6,50
+2019-09-01;Lidl;Alimentari;3,00;EUR;-3,00;3,00
+2019-09-03;Pesto;Generali;2,09;EUR;-2,09;2,09
+2019-09-03;Salute mentale - terapista ;Generali;1,00;EUR;1,00;-1,00
+2019-09-06;Focaccia;Generali;2,00;EUR;-1,00;1,00
+2019-09-07;Cavo;Generali;6,50;EUR;6,50;-6,50
+2019-09-09;Bakery;Generali;10,00;EUR;-5,00;5,00
+2019-09-10;Mediaworld;Generali;10,00;EUR;5,00;-5,00
+2019-09-10;Carne;Alimentari;9,00;EUR;9,00;-9,00
+2019-09-10;Alice B, ha pagato Mattia D,;Pagamento;21,50;EUR;-21,50;21,50
+2019-09-11;Tronchesina;Generali;3,90;EUR;-3,90;3,90
+2019-09-15;Carrefour;Alimentari;26,00;EUR;26,00;-26,00
+2019-09-15;Reso;Generali;12,10;EUR;-12,10;12,10
+2019-09-17;Coop;Generali;3,00;EUR;-3,00;3,00
+2019-09-24;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2019-09-26;Ikea;Arredamento;1,80;EUR;-1,80;1,80
+2019-09-29;Cena di merda;Ristorante;37,00;EUR;-18,50;18,50
+2019-09-30;Lidl;Alimentari;11,00;EUR;11,00;-11,00
+2019-10-02;Coop;Generali;4,00;EUR;-2,00;2,00
+2019-10-02;Pesto;Generali;7,00;EUR;-3,50;3,50
+2019-10-03;Pizza;Ristorante;12,00;EUR;-6,00;6,00
+2019-10-03;Bollo;Generali;174,00;EUR;-87,00;87,00
+2019-10-03;Rachele;Generali;20,00;EUR;-10,00;10,00
+2019-10-03;Hotel;Hotel;62,00;EUR;62,00;-62,00
+2019-10-05;Reso;Generali;40,00;EUR;40,00;-40,00
+2019-10-10;Ikea;Arredamento;10,00;EUR;10,00;-10,00
+2019-10-13;Carrefour;Generali;9,20;EUR;-9,20;9,20
+2019-10-14;Cambio valuta;Generali;35,00;EUR;-17,50;17,50
+2019-10-15;Taxi;Taxi;18,00;EUR;-9,00;9,00
+2019-10-24;Mattia D, ha pagato Alice B,;Pagamento;27,50;EUR;27,50;-27,50
+2019-10-26;Kebab;Ristorante;5,50;EUR;5,50;-5,50
+2019-10-26;Pizza;Ristorante;15,00;EUR;7,50;-7,50
+2019-10-29;Coop;Generali;2,00;EUR;-2,00;2,00
+2019-10-29;Prestito;Generali;2,00;EUR;-2,00;2,00
+2019-10-29;Phono;Generali;7,00;EUR;7,00;-7,00
+2019-10-30;Insalata;Generali;1,00;EUR;-1,00;1,00
+2019-10-30;Pesto;Generali;5,00;EUR;-2,50;2,50
+2019-11-02;Pizza;Ristorante;11,50;EUR;-5,75;5,75
+2019-11-03;Dispense;Generali;2,00;EUR;-2,00;2,00
+2019-11-04;Coop;Generali;3,13;EUR;-3,13;3,13
+2019-11-05;Prestito;Generali;10,00;EUR;10,00;-10,00
+2019-11-06;Carrefour;Alimentari;4,22;EUR;4,22;-4,22
+2019-11-08;Lidl;Alimentari;11,00;EUR;5,50;-5,50
+2019-11-09;Coop;Generali;3,70;EUR;-3,70;3,70
+2019-11-13;Reso;Generali;20,00;EUR;-20,00;20,00
+2019-11-13;Mattia D, ha pagato Alice B,;Pagamento;2,36;EUR;2,36;-2,36
+2019-11-13;Coop;Generali;7,50;EUR;-7,50;7,50
+2019-11-13;ikea;Arredamento;5,90;EUR;5,90;-5,90
+2019-11-15;Prestito;Generali;1,60;EUR;1,60;-1,60
+2019-11-17;Pizza;Ristorante;7,00;EUR;-7,00;7,00
+2019-11-19;Colori;Generali;9,00;EUR;-9,00;9,00
+2019-11-22;Pizza;Ristorante;4,14;EUR;2,07;-2,07
+2019-11-22;Prestito;Generali;2,00;EUR;2,00;-2,00
+2019-11-23;Mattia D, ha pagato Alice B,;Pagamento;11,93;EUR;11,93;-11,93
+2019-11-24;Carrefoue;Generali;12,00;EUR;-12,00;12,00
+2019-11-25;Esselunga;Generali;4,50;EUR;-4,50;4,50
+2019-11-26;Carrefour;Alimentari;9,00;EUR;9,00;-9,00
+2019-12-04;Funiculì;Generali;38,00;EUR;19,00;-19,00
+2019-12-05;Cena;Ristorante;5,00;EUR;-2,50;2,50
+2019-12-06;Carne;Alimentari;2,00;EUR;-2,00;2,00
+2019-12-08;Reso;Generali;1,00;EUR;-1,00;1,00
+2019-12-14;Carrefour;Alimentari;8,00;EUR;-8,00;8,00
+2019-12-14;Regalo alberto;Regali;10,00;EUR;10,00;-10,00
+2019-12-20;Amazon;Generali;18,00;EUR;18,00;-18,00
+2019-12-20;Branzo;Generali;38,00;EUR;-19,00;19,00
+2019-12-31;Hotel roma;Hotel;72,00;EUR;-36,00;36,00
+2019-12-31;Tuodì;Generali;12,00;EUR;6,00;-6,00
+2019-12-31;Cena;Generali;14,00;EUR;7,00;-7,00
+2019-12-31;Metro;Autobus/treno;1,00;EUR;-1,00;1,00
+2020-01-01;Bus roma;Autobus/treno;24,00;EUR;12,00;-12,00
+2020-01-01;Pranzo;Generali;13,00;EUR;6,50;-6,50
+2020-01-01;Tassa soggiorno;Generali;7,00;EUR;3,50;-3,50
+2020-01-02;treno;Generali;32,70;EUR;16,35;-16,35
+2020-01-02;Bus;Generali;20,70;EUR;10,35;-10,35
+2020-01-04;Alice;Generali;8,00;EUR;-4,00;4,00
+2020-01-04;Metro;Autobus/treno;3,00;EUR;1,50;-1,50
+2020-01-04;Kebab;Ristorante;11,00;EUR;5,50;-5,50
+2020-01-05;Spesa;Alimentari;12,00;EUR;-12,00;12,00
+2020-01-06;Reso;Generali;20,00;EUR;-20,00;20,00
+2020-01-10;Scalo punti coop;Generali;5,00;EUR;5,00;-5,00
+2020-01-15;Spesa;Alimentari;3,50;EUR;-3,50;3,50
+2020-01-18;Coop;Generali;6,00;EUR;6,00;-6,00
+2020-01-20;Kebab;Generali;11,00;EUR;-5,50;5,50
+2020-01-21;Coop;Generali;3,90;EUR;-3,90;3,90
+2020-01-22;Carrefour;Alimentari;5,00;EUR;5,00;-5,00
+2020-01-22;Alice B, ha pagato Mattia D,;Pagamento;5,80;EUR;-5,80;5,80
+2020-01-25;Firenze;Generali;17,40;EUR;17,40;-17,40
+2020-01-25;Polpette;Generali;5,00;EUR;-5,00;5,00
+2020-01-26;Pam;Generali;4,00;EUR;4,00;-4,00
+2020-01-28;Conad;Generali;9,00;EUR;-9,00;9,00
+2020-02-06;Kebab;Ristorante;3,00;EUR;-3,00;3,00
+2020-02-12;Hamburger;Generali;5,00;EUR;5,00;-5,00
+2020-02-12;Coop;Generali;3,60;EUR;-3,60;3,60
+2020-02-14;Coop;Generali;3,00;EUR;-3,00;3,00
+2020-02-14;Coop;Generali;11,00;EUR;-11,00;11,00
+2020-02-14;Mattia D, ha pagato Alice B,;Pagamento;8,20;EUR;8,20;-8,20
+2020-02-15;Spray;Generali;7,90;EUR;-7,90;7,90
+2020-02-16;Coop;Generali;6,00;EUR;6,00;-6,00
+2020-02-18;Lidl;Alimentari;3,60;EUR;-3,60;3,60
+2020-02-18;Mattia D, ha pagato Alice B,;Pagamento;5,50;EUR;5,50;-5,50
+2020-02-26;Lidl;Alimentari;12,50;EUR;12,50;-12,50
+2020-02-28;Alice B, ha pagato Mattia D,;Pagamento;12,50;EUR;-12,50;12,50
+2020-02-28;Esselunga;Generali;4,00;EUR;4,00;-4,00
+2020-02-29;Porca;Generali;21,00;EUR;10,50;-10,50
+2020-03-01;Carrefour;Alimentari;6,20;EUR;-6,20;6,20
+2020-03-04;Farmacia;Spese mediche;7,90;EUR;7,90;-7,90
+2020-03-07;Pizza;Ristorante;15,00;EUR;-7,50;7,50
+2020-03-13;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2020-03-13;Guanti;Generali;10,00;EUR;-10,00;10,00
+2020-03-18;Pizza;Ristorante;13,00;EUR;6,50;-6,50
+2020-03-18;Carrefour;Alimentari;4,00;EUR;4,00;-4,00
+2020-03-21;Coop;Generali;13,00;EUR;-13,00;13,00
+2020-03-27;Carrefour;Alimentari;13,00;EUR;13,00;-13,00
+2020-03-30;Shampoo;Casalinghi;2,96;EUR;-2,96;2,96
+2020-04-06;Carrefour;Alimentari;13,84;EUR;-13,84;13,84
+2020-04-23;Spesa;Alimentari;4,00;EUR;-4,00;4,00
+2020-04-23;Mattia D, ha pagato Alice B,;Pagamento;4,60;EUR;4,60;-4,60
+2020-04-29;Pizza;Ristorante;6,50;EUR;6,50;-6,50
+2020-04-29;Roba casa;Generali;5,68;EUR;-5,68;5,68
+2020-04-29;Carrefour;Alimentari;17,80;EUR;-17,80;17,80
+2020-04-30;Coop;Generali;11,00;EUR;-11,00;11,00
+2020-05-01;Kebab;Ristorante;13,00;EUR;6,50;-6,50
+2020-05-03;Pizza;Ristorante;17,00;EUR;8,50;-8,50
+2020-05-06;Calzone;Generali;14,00;EUR;7,00;-7,00
+2020-05-06;Formiche;Generali;15,00;EUR;7,50;-7,50
+2020-05-10;Alice B, ha pagato Mattia D,;Pagamento;1,52;EUR;-1,52;1,52
+2020-08-26;Pizza;Ristorante;11,50;EUR;5,75;-5,75
+2020-09-02;Alice B, ha pagato Mattia D,;Pagamento;5,75;EUR;-5,75;5,75
+2020-09-02;Pizza;Ristorante;12,00;EUR;6,00;-6,00
+2020-09-03;Lidl;Alimentari;25,00;EUR;-25,00;25,00
+2020-09-06;Kebab;Ristorante;10,00;EUR;5,00;-5,00
+2020-09-07;Carrefour;Alimentari;53,00;EUR;26,50;-26,50
+2020-09-10;Pizza;Ristorante;15,00;EUR;-7,50;7,50
+2020-09-11;Coop;Generali;16,00;EUR;-8,00;8,00
+2020-09-11;Pizza;Ristorante;6,00;EUR;3,00;-3,00
+2020-09-13;Spesa;Alimentari;84,00;EUR;42,00;-42,00
+2020-09-15;Carrefour;Alimentari;28,00;EUR;-14,00;14,00
+2020-09-15;Reso;Generali;17,00;EUR;-17,00;17,00
+2020-09-19;Pizza;Ristorante;12,00;EUR;6,00;-6,00
+2020-09-20;Branzo;Generali;40,00;EUR;-20,00;20,00
+2020-09-22;Lidl;Alimentari;30,00;EUR;15,00;-15,00
+2020-09-23;Carrefour;Alimentari;3,00;EUR;-3,00;3,00
+2020-09-25;Pizza;Ristorante;5,00;EUR;5,00;-5,00
+2020-10-08;Pareggia tutti i bilanci;Generali;14,00;EUR;-14,00;14,00
+2020-10-11;Lidl;Alimentari;2,00;EUR;-2,00;2,00
+2020-10-15;Torta scaldarella;Generali;6,00;EUR;-6,00;6,00
+2020-10-20;Acqua;Generali;5,00;EUR;-2,50;2,50
+2020-10-20;Resto;Ristorante;5,00;EUR;-5,00;5,00
+2020-10-23;Pizza;Ristorante;12,00;EUR;6,00;-6,00
+2020-10-27;Spesa;Alimentari;25,00;EUR;-25,00;25,00
+2020-10-27;Kebab;Ristorante;11,00;EUR;-5,50;5,50
+2020-10-27;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2020-10-29;Lidl;Alimentari;5,00;EUR;5,00;-5,00
+2020-10-29;Coop;Generali;2,00;EUR;-2,00;2,00
+2020-10-30;Coop;Generali;10,00;EUR;-5,00;5,00
+2020-11-01;Pizza;Ristorante;15,00;EUR;7,50;-7,50
+2020-11-03;Kebab;Ristorante;12,00;EUR;6,00;-6,00
+2020-11-05;Coop;Generali;19,00;EUR;-9,50;9,50
+2020-11-05;Spesa;Alimentari;32,00;EUR;16,00;-16,00
+2020-11-06;Coop;Generali;15,00;EUR;-7,50;7,50
+2021-01-21;Pareggia tutti i bilanci;Generali;22,50;EUR;22,50;-22,50
+2021-02-02;Coop castelnuovo;Generali;70,00;EUR;-35,00;35,00
+2021-02-02;Kebab;Ristorante;11,00;EUR;5,50;-5,50
+2021-02-04;Carrefour;Alimentari;7,00;EUR;-3,50;3,50
+2021-02-05;Reso;Generali;5,00;EUR;5,00;-5,00
+2021-02-08;Spesa;Alimentari;82,00;EUR;-41,00;41,00
+2021-02-09;Pizza;Ristorante;13,50;EUR;-6,75;6,75
+2021-02-12;Pasticceria ;Generali;25,00;EUR;-12,50;12,50
+2021-02-13;Dior;Generali;45,00;EUR;45,00;-45,00
+2021-02-13;Kebab;Ristorante;11,00;EUR;-5,50;5,50
+2021-02-14;Carrefour;Alimentari;64,00;EUR;-32,00;32,00
+2021-02-15;Branzo;Generali;45,00;EUR;22,50;-22,50
+2021-02-15;Coop;Generali;36,00;EUR;-18,00;18,00
+2021-02-16;Coop;Generali;5,00;EUR;-2,50;2,50
+2021-02-18;Carrefour;Alimentari;7,00;EUR;3,50;-3,50
+2021-02-20;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2021-02-20;Coop;Generali;56,77;EUR;-28,38;28,38
+2021-02-20;Carrefour;Alimentari;25,77;EUR;-12,88;12,88
+2021-02-20;Coop;Generali;6,98;EUR;-3,49;3,49
+2021-02-25;Farmacia;Spese mediche;13,50;EUR;13,50;-13,50
+2021-02-25;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2021-02-26;Coop;Generali;28,00;EUR;-14,00;14,00
+2021-02-26;Coop;Generali;59,00;EUR;-29,50;29,50
+2021-02-26;Kliton;Generali;7,00;EUR;-7,00;7,00
+2021-02-27;Coop;Generali;8,00;EUR;4,00;-4,00
+2021-02-27;Cinesi;Generali;7,00;EUR;3,50;-3,50
+2021-02-27;Bilancia;Generali;28,00;EUR;14,00;-14,00
+2021-03-02;Coop;Generali;17,00;EUR;-8,50;8,50
+2021-03-05;Ikea;Arredamento;2,50;EUR;1,25;-1,25
+2021-03-05;Coop;Generali;24,00;EUR;12,00;-12,00
+2021-03-05;Coop;Generali;9,00;EUR;-4,50;4,50
+2021-03-10;Spesa castelnuovo ;Alimentari;40,00;EUR;-20,00;20,00
+2021-03-12;Pizza;Ristorante;15,00;EUR;-7,50;7,50
+2021-03-12;Mattia D, ha pagato Alice B,;Pagamento;148,75;EUR;148,75;-148,75
+2021-03-12;Coop;Generali;64,00;EUR;-32,00;32,00
+2021-03-14;Carrefour;Alimentari;21,00;EUR;10,50;-10,50
+2021-03-15;Coop;Generali;52,00;EUR;-26,00;26,00
+2021-03-16;Kebab;Ristorante;11,00;EUR;5,50;-5,50
+2021-03-17;Pesce;Generali;8,00;EUR;-4,00;4,00
+2021-03-17;Carne antonella ;Alimentari;53,00;EUR;26,50;-26,50
+2021-03-17;Coop;Generali;32,00;EUR;-16,00;16,00
+2021-03-19;Alimentari;Generali;6,00;EUR;-3,00;3,00
+2021-03-20;Coop;Generali;12,00;EUR;-6,00;6,00
+2021-03-22;Pizza;Ristorante;14,50;EUR;7,25;-7,25
+2021-03-23;Everli;Generali;17,00;EUR;8,50;-8,50
+2021-03-28;Pizza;Ristorante;20,00;EUR;10,00;-10,00
+2021-03-29;Coop;Generali;118,00;EUR;-59,00;59,00
+2021-03-31;Coop;Generali;33,00;EUR;-16,50;16,50
+2021-03-31;Coop;Generali;16,00;EUR;-8,00;8,00
+2021-04-02;Coop;Generali;30,00;EUR;-15,00;15,00
+2021-04-02;Carrefour;Alimentari;47,00;EUR;-23,50;23,50
+2021-04-06;Coop;Generali;18,00;EUR;-9,00;9,00
+2021-04-07;Coop;Generali;19,00;EUR;9,50;-9,50
+2021-04-08;Carrefour everli;Alimentari;44,00;EUR;22,00;-22,00
+2021-04-12;Pizza;Ristorante;14,00;EUR;-7,00;7,00
+2021-04-13;Coop;Generali;53,00;EUR;-26,50;26,50
+2021-04-13;Pareggia tutti i bilanci;Generali;151,75;EUR;151,75;-151,75
+2021-04-15;Coop;Generali;30,00;EUR;-15,00;15,00
+2021-04-18;Coop ;Generali;30,00;EUR;-15,00;15,00
+2021-04-18;Coop;Generali;100,00;EUR;-50,00;50,00
+2021-04-21;Coop;Generali;67,00;EUR;33,50;-33,50
+2021-04-23;Coop;Generali;10,00;EUR;5,00;-5,00
+2021-04-24;Everli;Generali;12,00;EUR;6,00;-6,00
+2021-04-25;Pareggia tutti i bilanci;Generali;35,50;EUR;35,50;-35,50
+2021-04-26;Coop;Generali;16,00;EUR;-8,00;8,00
+2021-04-26;Pizza;Ristorante;14,00;EUR;-7,00;7,00
+2021-04-26;Everli;Generali;40,00;EUR;20,00;-20,00
+2021-05-03;Coop;Generali;22,00;EUR;-11,00;11,00
+2021-05-04;Coop;Generali;39,00;EUR;-19,50;19,50
+2021-05-06;Pizza;Ristorante;15,00;EUR;7,50;-7,50
+2021-05-19;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2021-05-19;Coop;Generali;57,00;EUR;28,50;-28,50
+2021-05-20;Kasanova;Generali;50,00;EUR;-25,00;25,00
+2021-05-20;Ikea;Arredamento;80,00;EUR;-40,00;40,00
+2021-05-20;Carrefour ;Alimentari;60,00;EUR;-30,00;30,00
+2021-05-21;Ikea;Arredamento;116,00;EUR;58,00;-58,00
+2021-05-21;Pareggia tutti i bilanci;Generali;19,50;EUR;19,50;-19,50
+2021-05-25;Coop;Generali;21,00;EUR;-10,50;10,50
+2021-05-25;Carrefour;Alimentari;30,00;EUR;-15,00;15,00
+2021-05-26;Gelato;Ristorante;16,40;EUR;-8,20;8,20
+2021-05-27;Ikea;Arredamento;65,00;EUR;-32,50;32,50
+2021-05-28;Coop;Generali;34,00;EUR;17,00;-17,00
+2021-05-28;Carrefour;Alimentari;17,00;EUR;8,50;-8,50
+2021-05-29;Pizza;Ristorante;12,00;EUR;-6,00;6,00
+2021-06-02;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2021-06-03;Coop;Generali;85,00;EUR;-42,50;42,50
+2021-06-04;Kebab;Ristorante;10,00;EUR;-5,00;5,00
+2021-06-08;Kasanova;Generali;40,00;EUR;-20,00;20,00
+2021-06-12;Coop castelnuovo;Generali;110,00;EUR;-55,00;55,00
+2021-06-14;Everli;Generali;44,30;EUR;22,15;-22,15
+2021-06-14;Branzo;Generali;38,00;EUR;19,00;-19,00
+2021-06-15;Integratore;Generali;26,00;EUR;-26,00;26,00
+2021-06-18;Coop;Generali;100,00;EUR;-50,00;50,00
+2021-06-18;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2021-06-18;Treno;Generali;34,00;EUR;34,00;-34,00
+2021-06-23;Bus;Autobus/treno;24,00;EUR;12,00;-12,00
+2021-06-23;Treno;Generali;49,00;EUR;24,50;-24,50
+2021-06-27;Alice pizza;Ristorante;14,00;EUR;7,00;-7,00
+2021-06-29;Spesa;Alimentari;26,00;EUR;13,00;-13,00
+2021-07-01;Coop;Generali;22,00;EUR;-11,00;11,00
+2021-07-01;Carrefour;Alimentari;30,00;EUR;-15,00;15,00
+2021-07-08;Coop;Generali;110,00;EUR;-55,00;55,00
+2021-07-18;Cena branzo ASTICE !!!!;Ristorante;76,00;EUR;38,00;-38,00
+2021-07-20;Carrefour ;Alimentari;5,00;EUR;2,50;-2,50
+2021-07-20;Carrefour ;Alimentari;43,00;EUR;21,50;-21,50
+2021-07-24;Arno vivo;Generali;12,00;EUR;6,00;-6,00
+2021-07-24;Cinese;Generali;30,00;EUR;15,00;-15,00
+2021-07-24;Torta;Generali;20,00;EUR;20,00;-20,00
+2021-07-24;Tonno;Generali;5,00;EUR;-2,50;2,50
+2021-07-25;Treno;Generali;17,40;EUR;17,40;-17,40
+2021-07-25;Branzo;Generali;21,50;EUR;21,50;-21,50
+2021-07-27;Funiculì;Generali;14,00;EUR;-14,00;14,00
+2021-07-27;Astice di merda;Generali;10,00;EUR;10,00;-10,00
+2021-07-27;Mattia D, ha pagato Alice B,;Pagamento;45,15;EUR;45,15;-45,15
+2021-07-30;Treno campiglia ;Generali;16,00;EUR;-16,00;16,00
+2021-07-30;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2021-08-01;Autostrada;Generali;6,80;EUR;6,80;-6,80
+2021-08-01;Autostrada;Generali;10,00;EUR;10,00;-10,00
+2021-08-01;Lidl;Alimentari;18,00;EUR;9,00;-9,00
+2021-08-08;Alice B, ha pagato Mattia D,;Pagamento;16,80;EUR;-16,80;16,80
+2021-08-08;Alice B, ha pagato Mattia D,;Pagamento;16,00;EUR;-16,00;16,00
+2021-08-08;Amazon;Generali;16,00;EUR;16,00;-16,00
+2021-08-18;Camicino;Generali;20,00;EUR;10,00;-10,00
+2021-08-24;Griglia;Generali;33,00;EUR;-16,50;16,50
+2021-08-26;Cornic e tappeto;Generali;13,00;EUR;13,00;-13,00
+2021-08-28;Carrello;Generali;25,00;EUR;12,50;-12,50
+2021-08-28;Autogrill;Generali;6,00;EUR;3,00;-3,00
+2021-09-05;Cena follonica;Ristorante;50,00;EUR;25,00;-25,00
+2021-09-06;Pizza;Ristorante;16,00;EUR;-8,00;8,00
+2021-09-06;Gambe ;Generali;14,00;EUR;7,00;-7,00
+2021-09-07;Ikea;Arredamento;46,00;EUR;-23,00;23,00
+2021-09-09;Pizza;Ristorante;15,00;EUR;7,50;-7,50
+2021-09-10;Parcheggio;Generali;10,00;EUR;5,00;-5,00
+2021-09-10;Coop;Generali;42,00;EUR;-21,00;21,00
+2021-09-10;Ikea tappeto ;Arredamento;50,00;EUR;-25,00;25,00
+2021-09-12;Carrefour;Alimentari;20,00;EUR;10,00;-10,00
+2021-09-12;Pellicola tavolo;Generali;8,00;EUR;4,00;-4,00
+2021-09-13;Brico tende;Generali;12,00;EUR;6,00;-6,00
+2021-09-13;Coop;Generali;17,00;EUR;8,50;-8,50
+2021-09-14;Gelato;Ristorante;10,00;EUR;-5,00;5,00
+2021-09-15;Pizza;Ristorante;13,00;EUR;-6,50;6,50
+2021-09-15;Carrefour;Alimentari;24,00;EUR;12,00;-12,00
+2021-09-19;Kambusa;Generali;40,00;EUR;20,00;-20,00
+2021-09-19;Carrefour;Alimentari;15,00;EUR;7,50;-7,50
+2021-09-22;Carrefour ;Alimentari;30,00;EUR;-15,00;15,00
+2021-09-24;Coop;Generali;50,00;EUR;-25,00;25,00
+2021-09-24;Pizza ;Ristorante;13,00;EUR;6,50;-6,50
+2021-09-26;Panacea;Generali;53,00;EUR;26,50;-26,50
+2021-09-26;Mc;Generali;10,00;EUR;5,00;-5,00
+2021-09-26;Ipercoop;Generali;8,00;EUR;4,00;-4,00
+2021-09-30;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2021-10-02;Ikea;Arredamento;22,00;EUR;-11,00;11,00
+2021-10-03;Carrefour;Alimentari;33,00;EUR;-16,50;16,50
+2021-10-03;Carrefour;Alimentari;26,00;EUR;-13,00;13,00
+2021-10-03;Pizza;Ristorante;15,00;EUR;7,50;-7,50
+2021-10-05;Kebab;Ristorante;14,00;EUR;7,00;-7,00
+2021-10-06;Coop;Generali;17,00;EUR;-8,50;8,50
+2021-10-07;Antenna;Generali;40,00;EUR;-20,00;20,00
+2021-10-08;Carrefour;Alimentari;11,00;EUR;-5,50;5,50
+2021-10-10;Carrefour;Alimentari;13,00;EUR;-6,50;6,50
+2021-10-10;Aperitivo;Generali;10,00;EUR;5,00;-5,00
+2021-10-10;Carrefour;Alimentari;7,00;EUR;-3,50;3,50
+2021-10-10;Pizza;Ristorante;13,00;EUR;-6,50;6,50
+2021-10-17;Tende;Generali;24,00;EUR;12,00;-12,00
+2021-10-17;Coop;Generali;20,00;EUR;10,00;-10,00
+2021-10-17;Pizza;Ristorante;7,00;EUR;7,00;-7,00
+2021-10-27;Pizza;Ristorante;17,00;EUR;8,50;-8,50
+2021-10-27;Spesa;Alimentari;15,00;EUR;7,50;-7,50
+2021-10-31;Viaggio andaga pescara;Generali;60,00;EUR;30,00;-30,00
+2021-11-02;Patate;Generali;10,00;EUR;5,00;-5,00
+2021-11-02;Ipercoop;Generali;75,00;EUR;-37,50;37,50
+2021-11-05;Pomodoro e mozzarella;Generali;33,00;EUR;16,50;-16,50
+2021-11-05;Coop;Generali;33,00;EUR;-16,50;16,50
+2021-11-06;Carrefour;Alimentari;40,00;EUR;-20,00;20,00
+2021-11-07;branzo;Generali;38,00;EUR;19,00;-19,00
+2021-11-07;cavo tv;TV/Telefono/Internet;6,00;EUR;3,00;-3,00
+2021-11-07;spesa e brco;Alimentari;22,00;EUR;11,00;-11,00
+2021-11-08;Coop;Generali;50,00;EUR;-25,00;25,00
+2021-11-11;Verdure;Generali;20,00;EUR;-10,00;10,00
+2021-11-12;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2021-11-18;Carrefour;Alimentari;26,00;EUR;-13,00;13,00
+2021-11-18;Macello;Generali;15,00;EUR;7,50;-7,50
+2021-11-18;Carrefour;Alimentari;30,00;EUR;-15,00;15,00
+2021-11-20;Macelleria;Generali;20,00;EUR;10,00;-10,00
+2021-11-21;Pizza;Ristorante;15,00;EUR;7,50;-7,50
+2021-11-21;Carrefour;Alimentari;16,00;EUR;8,00;-8,00
+2021-11-23;Ikea;Arredamento;14,00;EUR;-7,00;7,00
+2021-11-23;Carrefour;Alimentari;16,00;EUR;-8,00;8,00
+2021-11-27;Compeed;Generali;10,00;EUR;10,00;-10,00
+2021-11-27;Obi;Generali;20,00;EUR;-10,00;10,00
+2021-11-27;Coop;Generali;16,00;EUR;-8,00;8,00
+2021-11-27;Roadhouse ;Generali;50,00;EUR;25,00;-25,00
+2021-11-28;Pizza;Ristorante;6,00;EUR;6,00;-6,00
+2021-11-28;Branzo;Generali;45,00;EUR;-22,50;22,50
+2021-12-02;Coop;Generali;65,00;EUR;-32,50;32,50
+2021-12-06;Carrefour;Alimentari;40,00;EUR;20,00;-20,00
+2021-12-13;Coop;Generali;18,00;EUR;9,00;-9,00
+2021-12-16;Pizza;Ristorante;6,00;EUR;6,00;-6,00
+2021-12-16;Kebab;Ristorante;15,00;EUR;7,50;-7,50
+2021-12-30;Carreffour;Generali;40,00;EUR;-20,00;20,00
+2021-12-30;Coop;Generali;55,00;EUR;-27,50;27,50
+2021-12-31;Parcheggio;Generali;6,00;EUR;3,00;-3,00
+2021-12-31;Bombardino;Generali;8,00;EUR;-4,00;4,00
+2022-01-04;Coop;Generali;40,00;EUR;-20,00;20,00
+2022-01-05;Kebab;Ristorante;15,00;EUR;7,50;-7,50
+2022-01-06;Carrefour;Alimentari;32,00;EUR;-16,00;16,00
+2022-01-10;Carrefour;Alimentari;30,00;EUR;15,00;-15,00
+2022-01-10;Pizza;Ristorante;18,00;EUR;18,00;-18,00
+2022-01-10;Verdure ;Generali;7,00;EUR;-3,50;3,50
+2022-01-12;Pizza;Ristorante;7,00;EUR;-7,00;7,00
+2022-01-12;Coop;Generali;34,00;EUR;-17,00;17,00
+2022-01-13;Macelleria ;Generali;22,00;EUR;-11,00;11,00
+2022-01-15;Coop;Generali;72,00;EUR;-36,00;36,00
+2022-01-15;Pizza;Ristorante;7,00;EUR;7,00;-7,00
+2022-01-16;Kebab;Ristorante;15,00;EUR;7,50;-7,50
+2022-01-18;Prolunga;Generali;8,00;EUR;4,00;-4,00
+2022-01-21;Spesa ortofrutta/panificio;Alimentari;13,00;EUR;-6,50;6,50
+2022-01-23;Tamponi;Generali;10,00;EUR;-10,00;10,00
+2022-01-25;Pizza;Ristorante;24,00;EUR;12,00;-12,00
+2022-01-27;Spesa Coop ;Alimentari;62,39;EUR;-31,20;31,20
+2022-01-28;Mc;Generali;19,00;EUR;9,50;-9,50
+2022-01-28;Carrefour;Alimentari;19,00;EUR;9,50;-9,50
+2022-01-29;Pizza;Ristorante;15,60;EUR;-7,80;7,80
+2022-01-30;Carrefour;Alimentari;25,00;EUR;12,50;-12,50
+2022-01-31;Cena;Ristorante;29,00;EUR;14,50;-14,50
+2022-02-02;Carrefour;Alimentari;18,00;EUR;-9,00;9,00
+2022-02-02;Coop;Generali;60,00;EUR;-30,00;30,00
+2022-02-02;Panificio;Generali;6,00;EUR;-3,00;3,00
+2022-02-06;pizza;Ristorante;17,00;EUR;8,50;-8,50
+2022-02-07;Pane;Generali;4,00;EUR;-2,00;2,00
+2022-02-08;Tachipirina ;Generali;9,00;EUR;-4,50;4,50
+2022-02-08;Panaio;Generali;5,00;EUR;-2,50;2,50
+2022-02-08;Kebab;Ristorante;15,00;EUR;7,50;-7,50
+2022-02-13;Hamburger;Generali;45,00;EUR;-22,50;22,50
+2022-02-13;Carrefour;Alimentari;35,00;EUR;-17,50;17,50
+2022-02-13;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2022-02-15;Carrefour;Alimentari;48,00;EUR;-24,00;24,00
+2022-02-17;Coop;Generali;79,00;EUR;-39,50;39,50
+2022-02-17;Mc;Generali;23,00;EUR;11,50;-11,50
+2022-02-18;Macelleria ;Generali;13,00;EUR;-6,50;6,50
+2022-02-19;Pizza;Ristorante;17,00;EUR;8,50;-8,50
+2022-02-22;Coop;Generali;16,00;EUR;-8,00;8,00
+2022-02-22;Farmacia ;Spese mediche;5,00;EUR;5,00;-5,00
+2022-02-23;Pesce e verduraio;Generali;16,00;EUR;-8,00;8,00
+2022-02-25;Spesa;Alimentari;20,00;EUR;10,00;-10,00
+2022-03-03;Kebab;Ristorante;15,00;EUR;7,50;-7,50
+2022-03-06;Carrefour;Alimentari;30,00;EUR;-15,00;15,00
+2022-03-08;Torta ;Generali;20,00;EUR;10,00;-10,00
+2022-03-08;kebab;Ristorante;15,00;EUR;7,50;-7,50
+2022-03-09;Carrefour;Alimentari;50,00;EUR;-25,00;25,00
+2022-03-09;Coop;Generali;80,00;EUR;-40,00;40,00
+2022-03-12;Macelleria ;Generali;45,00;EUR;-22,50;22,50
+2022-03-14;Coop;Generali;38,00;EUR;-19,00;19,00
+2022-03-14;Mc;Generali;24,00;EUR;12,00;-12,00
+2022-03-14;Carrefour ;Alimentari;7,50;EUR;3,75;-3,75
+2022-03-21;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2022-03-21;Carrefour;Alimentari;17,00;EUR;8,50;-8,50
+2022-03-23;Lidl;Alimentari;10,00;EUR;0,00;0,00
+2022-03-25;Latte;Generali;11,00;EUR;0,00;0,00
+2022-03-25;Pizza;Ristorante;14,00;EUR;7,00;-7,00
+2022-03-28;Carrefour;Alimentari;23,00;EUR;-11,50;11,50
+2022-04-05;Regalo salvatore;Regali;10,00;EUR;10,00;-10,00
+2022-04-05;Carrefour ;Alimentari;20,00;EUR;10,00;-10,00
+2022-04-08;Pizza;Ristorante;20,00;EUR;10,00;-10,00
+2022-04-08;Kebab;Ristorante;15,00;EUR;7,50;-7,50
+2022-04-09;Pranzo roma;Generali;26,00;EUR;-13,00;13,00
+2022-04-10;Pizza;Ristorante;20,00;EUR;-10,00;10,00
+2022-04-11;roma;Generali;30,00;EUR;30,00;-30,00
+2022-04-13;Pranzo Roma;Generali;22,00;EUR;22,00;-22,00
+2022-04-14;Carrefour ;Alimentari;15,00;EUR;-7,50;7,50
+2022-04-14;Alimentari;Generali;30,00;EUR;-15,00;15,00
+2022-04-21;Mc;Generali;14,00;EUR;7,00;-7,00
+2022-04-22;Coop;Generali;65,00;EUR;-32,50;32,50
+2022-04-22;Carrefour;Alimentari;36,00;EUR;-18,00;18,00
+2022-04-23;Pizza;Ristorante;23,00;EUR;11,50;-11,50
+2022-04-23;Gelato;Ristorante;7,00;EUR;-3,50;3,50
+2022-04-25;Carrefour;Alimentari;16,00;EUR;-8,00;8,00
+2022-04-29;Ikea;Arredamento;13,00;EUR;6,50;-6,50
+2022-04-29;Coop;Generali;46,00;EUR;-23,00;23,00
+2022-04-29;Pizza;Ristorante;7,00;EUR;7,00;-7,00
+2022-04-30;Carrefour;Alimentari;10,00;EUR;-5,00;5,00
+2022-05-01;Carrefour piu fiera;Alimentari;34,00;EUR;17,00;-17,00
+2022-05-01;Carrefour ;Alimentari;6,00;EUR;6,00;-6,00
+2022-05-03;Mattia D, ha pagato Alice B,;Pagamento;265,75;EUR;265,75;-265,75
+2022-05-09;Coop;Generali;60,00;EUR;60,00;-60,00
+2022-05-09;Carrefour;Alimentari;21,00;EUR;10,50;-10,50
+2022-05-13;Verdure;Generali;14,00;EUR;-7,00;7,00
+2022-05-14;Gelato;Ristorante;6,00;EUR;3,00;-3,00
+2022-05-14;Mc;Generali;26,00;EUR;13,00;-13,00
+2022-05-16;Esselunga;Generali;26,00;EUR;-13,00;13,00
+2022-05-19;Carrefour;Alimentari;20,00;EUR;-10,00;10,00
+2022-05-19;Lidl;Alimentari;24,00;EUR;12,00;-12,00
+2022-05-22;Pizza;Ristorante;14,50;EUR;7,25;-7,25
+2022-05-23;Metro;Autobus/treno;30,00;EUR;-15,00;15,00
+2022-05-24;Coop;Generali;70,00;EUR;-35,00;35,00
+2022-05-25;Carrefour;Alimentari;34,00;EUR;-17,00;17,00
+2022-05-27;Cinesi;Generali;7,00;EUR;-3,50;3,50
+2022-05-27;Carrefour;Alimentari;23,00;EUR;-11,50;11,50
+2022-05-28;Ikea;Arredamento;33,00;EUR;-16,50;16,50
+2022-06-01;Pizza surgelata;Ristorante;5,00;EUR;5,00;-5,00
+2022-06-01;Verdura;Alimentari;21,50;EUR;-10,75;10,75
+2022-06-01;Coop;Generali;69,00;EUR;-34,50;34,50
+2022-06-03;Beanzo viareggio;Generali;55,00;EUR;27,50;-27,50
+2022-06-03;Aperitivo;Generali;12,00;EUR;-6,00;6,00
+2022-06-04;Carrefour;Alimentari;16,00;EUR;-8,00;8,00
+2022-06-04;Macelleria ;Generali;21,00;EUR;-10,50;10,50
+2022-06-05;pizza;Ristorante;20,00;EUR;10,00;-10,00
+2022-06-05;Carrefour;Alimentari;17,00;EUR;-8,50;8,50
+2022-06-06;Regalo scalda;Regali;10,00;EUR;10,00;-10,00
+2022-06-07;Mauris;Generali;19,00;EUR;-9,50;9,50
+2022-06-10;Carrefour;Alimentari;26,00;EUR;13,00;-13,00
+2022-06-12;Kebab;Ristorante;15,00;EUR;7,50;-7,50
+2022-06-15;Lidl;Alimentari;10,00;EUR;-5,00;5,00
+2022-06-15;Carrefour;Alimentari;40,00;EUR;-20,00;20,00
+2022-06-19;Coop;Generali;28,00;EUR;-14,00;14,00
+2022-06-20;Pizza;Ristorante;43,00;EUR;21,50;-21,50
+2022-06-20;Obi;Generali;27,00;EUR;13,50;-13,50
+2022-06-26;Montino;Generali;15,00;EUR;15,00;-15,00
+2022-06-26;Spesa;Alimentari;36,00;EUR;36,00;-36,00
+2022-06-26;Autogrill;Generali;7,30;EUR;3,65;-3,65
+2022-06-26;Aperitivo ;Generali;10,00;EUR;-10,00;10,00
+2022-06-27;Coop;Generali;20,00;EUR;-20,00;20,00
+2022-06-28;Spesa;Alimentari;7,00;EUR;7,00;-7,00
+2022-06-29;Coop;Generali;37,00;EUR;-37,00;37,00
+2022-06-29;Carrefour ;Alimentari;22,00;EUR;11,00;-11,00
+2022-07-01;Pareggia tutti i bilanci;Generali;35,85;EUR;35,85;-35,85
+2022-07-04;Coop;Generali;60,00;EUR;-30,00;30,00
+2022-07-07;Pizza;Ristorante;12,00;EUR;6,00;-6,00
+2022-07-07;Panificio;Generali;7,00;EUR;-3,50;3,50
+2022-07-08;Carrefour;Alimentari;21,00;EUR;10,50;-10,50
+2022-07-08;Carrefour;Alimentari;20,00;EUR;-10,00;10,00
+2022-07-12;Kebab;Ristorante;12,00;EUR;6,00;-6,00
+2022-07-12;Coop;Generali;31,00;EUR;-15,50;15,50
+2022-07-13;Pescheria;Generali;10,00;EUR;5,00;-5,00
+2022-07-14;Kebab;Ristorante;16,00;EUR;8,00;-8,00
+2022-07-14;Carrefour;Alimentari;16,00;EUR;8,00;-8,00
+2022-07-17;Pizza;Ristorante;32,00;EUR;16,00;-16,00
+2022-07-17;Lidl;Alimentari;36,00;EUR;-18,00;18,00
+2022-07-22;Kebab;Ristorante;16,00;EUR;8,00;-8,00
+2022-07-24;Pizza;Ristorante;21,00;EUR;10,50;-10,50
+2022-07-25;Carrefour;Alimentari;40,00;EUR;-20,00;20,00
+2022-07-26;Carrefour;Alimentari;30,00;EUR;-15,00;15,00
+2022-07-27;Pizza;Ristorante;15,00;EUR;-7,50;7,50
+2022-07-29;Mc;Generali;30,00;EUR;15,00;-15,00
+2022-07-31;Aperitivo;Generali;22,00;EUR;11,00;-11,00
+2022-08-01;Pranzo;Generali;63,00;EUR;-31,50;31,50
+2022-08-03;Carrefour;Alimentari;34,00;EUR;-17,00;17,00
+2022-08-07;Testine spazzolino ;Generali;32,00;EUR;-16,00;16,00
+2022-08-18;Cena ;Ristorante;35,00;EUR;17,50;-17,50
+2022-08-18;Birrificio;Generali;44,00;EUR;22,00;-22,00
+2022-09-04;Coop;Generali;80,00;EUR;-40,00;40,00
+2022-09-04;Kebab;Ristorante;17,00;EUR;8,50;-8,50
+2022-09-08;carrefour;Alimentari;25,00;EUR;12,50;-12,50
+2022-09-10;Coop;Generali;70,00;EUR;-35,00;35,00
+2022-09-13;Carrefour;Alimentari;18,00;EUR;-9,00;9,00
+2022-09-13;Dechatlon;Generali;6,00;EUR;-6,00;6,00
+2022-09-13;Coop;Generali;13,00;EUR;6,50;-6,50
+2022-09-15;Carrefour;Alimentari;13,00;EUR;-6,50;6,50
+2022-09-15;Coop;Generali;13,00;EUR;-6,50;6,50
+2022-09-15;Ikea;Arredamento;46,00;EUR;23,00;-23,00
+2022-09-16;capsule caffe;Generali;30,00;EUR;15,00;-15,00
+2022-09-17;Coop;Generali;51,00;EUR;-25,50;25,50
+2022-09-23;Carrefour ;Alimentari;33,00;EUR;-16,50;16,50
+2022-09-23;Mc;Generali;15,00;EUR;15,00;-15,00
+
+2022-09-25;Bilancio totale; ; ;EUR;-105,00;105,00
+
